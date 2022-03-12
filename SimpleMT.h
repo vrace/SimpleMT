@@ -4,6 +4,7 @@
 #include <thread>
 #include <mutex>
 #include <vector>
+#include <functional>
 
 template <class T, class U>
 struct SimpleMTContext
